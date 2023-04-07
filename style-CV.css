@@ -15,4 +15,12 @@ body{
     width: 100%;
 }
 
+section{
+    height: 35vh;
+    margin: 20px;
+}
 
+article{
+    width: 45%;
+    margin: 20px;
+}
