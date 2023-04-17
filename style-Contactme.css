@@ -9,7 +9,7 @@ body{
     font-family:Verdana;
     height: 100vh;
     width: 100%;
-    background-image: url(./assets/istockphoto-1277283994-612x612.jpg);
+    background-image: url(./assets/T622-ocre-jaune-A4.jpg);
     background-size: cover;
     background-position:center;
     background-repeat: no-repeat;
@@ -24,6 +24,7 @@ body{
     justify-content: space-between;
     width: 100%;
     box-sizing: border-box;
+    background-color:white;
 
 }
 
@@ -33,7 +34,7 @@ body{
 }
 
 .navbar a {
-    color:black
+    color:rgb(105, 67, 165);
 }
 
 .navbar .nav-links ul{
@@ -47,13 +48,14 @@ body{
 }
 
 .navbar .nav-links ul li.active a{
-    color:rgb(49, 88, 44);
+    color: rgb(173, 151, 76);
     font-weight: 600;
     
 }
 
 li a:hover{
-    background-color: beige;
+    background-color: black;
+    opacity: 0.9;
 }
 
 .burger{
